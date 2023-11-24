@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Devin Vargiu 💪
 
-- 🔭 I'm currently working in VDA Group SPA as Front-end developer
+- 🔭 I'm currently working in VDA Group as Front-end developer
 - 📫 How to reach me: devin.vargiu@gmail.com
 
 <div>
